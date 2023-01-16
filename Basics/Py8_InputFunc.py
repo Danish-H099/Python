@@ -1,4 +1,4 @@
-# input function "input()" takes the String as an input from the user
+# input function "input()" takes the input as a string from the user
 
 a=input("Enter Your name:")
 print(a)
