@@ -1,0 +1,2 @@
+i am writing in the write.txt file
+yes i am appending the data
