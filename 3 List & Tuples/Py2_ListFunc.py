@@ -1,5 +1,13 @@
 a=[2,8,9,3,1,6,5]
 
+# Lenght of the List
+l=len(a)
+print(l) # op-> 7
+
+# Count frequency of an element
+x=a.count(2)
+print(x) # op-> 1
+
 # Sorting of List
 b=a.sort()
 print(a) # op-> [1, 2, 3, 5, 6, 8, 9] so a.sort() sorts the a only
